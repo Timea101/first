@@ -1,1 +1,2 @@
-conflict removed
+ready for a conflict
+another row
